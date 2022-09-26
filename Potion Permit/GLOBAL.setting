@@ -1,0 +1,15 @@
+{
+    "MASTER_VOLUME": 3,
+    "AMBIENCE_VOLUME": 8,
+    "BGM_VOLUME": 8,
+    "SFX_VOLUME": 8,
+    "RESOLUTION_ID": 4,
+    "VYSNC": 0,
+    "VIBRATION": 1,
+    "LANGUAGE_ID": 0,
+    "KEYBOARD_SETTING_TYPE": 0,
+    "KEYBOARD_MOVEMENT_TYPE": 0,
+    "KEYBOARD_KEYS": [],
+    "FULLSCREEN": 1,
+    "FIRST_TIME_TRAILER": true
+}
