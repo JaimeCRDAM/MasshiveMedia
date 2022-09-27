@@ -1,9 +1,9 @@
 {
-    "MASTER_VOLUME": 3,
+    "MASTER_VOLUME": 4,
     "AMBIENCE_VOLUME": 8,
     "BGM_VOLUME": 8,
     "SFX_VOLUME": 8,
-    "RESOLUTION_ID": 4,
+    "RESOLUTION_ID": 0,
     "VYSNC": 0,
     "VIBRATION": 1,
     "LANGUAGE_ID": 0,
